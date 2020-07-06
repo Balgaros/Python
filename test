@@ -1,2 +1,4 @@
-test
+print ('Veuillez entrer un nombre: ')
+nombre =int(input())
+print("le carré de ", nombre, " est ", nombre**2)
 
